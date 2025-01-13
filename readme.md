@@ -1,0 +1,1 @@
+Esse codigo possui uma magia poderosa para quebrar a maldição do hello world.
